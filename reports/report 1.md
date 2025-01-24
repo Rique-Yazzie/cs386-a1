@@ -1,4 +1,4 @@
-## Report for Week #1
+# Report for Week #1
 **PROJECT TBD (Minesweeper?)**
 **Group:** 7
 **Date:** 1/24/2025
