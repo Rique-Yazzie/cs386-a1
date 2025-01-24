@@ -1,10 +1,16 @@
 # Report for Week #1
 **PROJECT TBD (Minesweeper?)**
+
 **Group:** 7
+
 **Date:** 1/24/2025
+
 **Location:** Cline Library/Discord
+
 **Present participants:** (Chris Son, Mark Johnson, Melvin Agram, Rique Yazzie)
+
 **Missing participants:** None
+
 **Project repo:** https://github.com/Rique-Yazzie/cs386-a1/edit/main/reports/report%201
 
 ## 1. Talent Inventory
@@ -26,8 +32,11 @@
 
 ##2. Roles
   **Manager:** Chris Son
+  
   **Recorder:** Melvin Agram
+  
   **Presenter:** Mark Johnson
+  
   **Reflector:** Rique Yazzie
 
 ## 3. Meeting Scheule
@@ -44,12 +53,17 @@
   **Brainstorming ideas...**
   **Ideas:**
          Priority Project -Marvel Rivals Team Comp/Counterpicks (CounterPick.com)
+         
          Battle Royale Minesweeper
+         
          Battle Royale Rock Paper Scissors
+         
          Fashion Budget Website powered by A.I.
 
 ## 6. Next steps
     -Verify projects with instructor on Monday
+    
     -Begin making a schedule for design 
+    
     -Plan out next weeks roles
 
