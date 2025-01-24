@@ -1,13 +1,13 @@
 # MyCarDriver
 
 ## Installation
-To install dependenices, use [pip] (https://pypi.org/project/pip/)
+To install dependenices, use [pip](https://pypi.org/project/pip/)
 
 ```bash
 pip install -r requirements.txt
 ```
 ### pip logo:
-![pip logo](https://pypi.org/static/images/logo-large.9f732b5f.svg
+![pip logo](https://pypi.org/static/images/logo-large.9f732b5f.svg)
 
 ## Developers
 
