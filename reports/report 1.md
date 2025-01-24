@@ -22,7 +22,7 @@
         Highest class taken was CS249 Data Structures. Projects developed, personal website, text-based
         adventure game, several data structures involving trees, linked-lists, graphs, etc. 
 
-  **Mevlin:**  I am pursing a Bachelor's in Applied Computer Science as a junior. 
+  **Melvin:**  I am pursing a Bachelor's in Applied Computer Science as a junior. 
            I have a solid understanding in programming languages including C, Java, and Python. 
            I have an interest in software development and problem-solving through the use of code.
 
