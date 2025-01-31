@@ -28,7 +28,9 @@ Confirmed project with Dr.Palmer
 Lead the discussion of the project idea.
 Found server on hostwinds.com
 
-**Rique**: Created the repository
+**Rique**: 
+
+Created the repository
 
   
 ## 2. Retrospective
