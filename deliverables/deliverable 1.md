@@ -1,4 +1,11 @@
 # Introduction
+Our project involves aiming to create a website of an all inclusive central hub
+for all players of team based cooperative games such as Overwatch, Valorant, and
+Marvel Rivals. Our website will offer valuable resources including character
+guides, recommended team builds, and up to date meta strategies to help players
+improve their gameplay. By merging all this information into one place, it
+ensures our website stays accessible, reliable and up to date with the tools
+players need to develop and enhance their strategies and overall performance.
 
 # Initial Value Proposition and customer segments
 
