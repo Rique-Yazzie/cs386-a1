@@ -16,7 +16,7 @@ Key Insights:
   - finds consistency in information valuable
   - prefers video format but is open to text if concise
   - Uses multiple sources (Google, YouTube, TikTok) for esports-related information
-  - 
+
 Representative Quotes:
   "Video, but sometimes text if it's not lengthy."
 
@@ -34,7 +34,7 @@ Key Insights:
   - Rarely searches for guides, prefers personal preference
   - Uses YouTube, stat-tracking websites, and Google searches
   - Prefers text for quick access but values video for tutorials
-  - 
+    
 Rpresentative Quotes:
   "Sometimes all the information is scattered on different tabs and you have to scroll and click on different links."
 
