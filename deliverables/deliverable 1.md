@@ -8,6 +8,10 @@ ensures our website stays accessible, reliable and up to date with the tools
 players need to develop and enhance their strategies and overall performance.
 
 # Initial Value Proposition and customer segments
+Counterpick.gg will provide comptitive gamers who play team oriented games an 
+advantage over their opponents. Counterpick will provide a easy to learn platform 
+where they can quickly and easily find the best counters to their opponents team 
+composition. 
 
 # Interview Summary 
 
