@@ -61,6 +61,6 @@ Key Insights:
 Representative Quote:
 "I would use it everyday..."
 
-Assessment: Must have
+Assessment: Nice to have
 
 # Final value proposition and consumer segments
