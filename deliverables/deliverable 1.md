@@ -67,4 +67,20 @@ Representative Quote:
 
 Assessment: Nice to have
 
+# Interviewee 4: Alex Price Interviewer: Rique
+
+Custoner Segment: Casual player/consumer
+
+Date: 2/1/2025
+
+key Insights:
+  - Usually looks to Game frag or Reddit for searching for metas and current info
+  - Would have resources be listed as readings or even tier lists
+  - Would like the website to allow users to post thier own pictures or videos for thier own builds or techniques for people to comment on
+
+Representative Quote:
+"A lot of information websites tend to be run by people who havent played the game so its hard to follow their guides"
+
+Assessment: Cool and appreciative for quick and reliable information
+
 # Final value proposition and consumer segments
