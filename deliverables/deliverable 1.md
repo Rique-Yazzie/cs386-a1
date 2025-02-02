@@ -47,6 +47,20 @@ Rpresentative Quotes:
 
 Assessement: Must have 
 
+# Interviewee 3: John Doe  Interviewer: Chris
 
+Customer Segement: Competetive Esports Player/Consumer
+
+Date: 2/1/2025
+
+Key Insights:
+  - Want's an edit date on information pertaining to key sources
+  - Would like both text and video, to accompany a resource
+  - Would like a unified source instead of multiple sources
+
+Representative Quote:
+"I would use it everyday..."
+
+Assessment: Must have
 
 # Final value proposition and consumer segments
