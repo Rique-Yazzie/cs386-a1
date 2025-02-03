@@ -83,4 +83,32 @@ Representative Quote:
 
 Assessment: Cool and appreciative for quick and reliable information
 
+# Interviewee 5: Clark Shaffer Interviewer: Mark
+
+Customer Segment: Casual Esports Player
+
+Date 2/2/2025
+
+Key Insights:
+  - Enjoys a more casual approach then massive amounts of information
+  - Video format preferred, if text preferrs engaging with discord communities or wiki posts for intel
+  - Would like our website, engage potentially twice a week to once a month
+
+Representative Quote:
+"[I would like a] centralized "beginners guide", [there is] too much fluff and drama surrounding learning, some gatekeeping. 
+  For league, no centralized beginners /meta guide for each character"
+
+Assessment: Not a huge esports guy but he enjoyed the survey, would use our website
+
+
 # Final value proposition and consumer segments
+
+In conclusion the information gathered led us to believe that there is a desire for centralized and clear information
+about esports with a specific emphasis on up to date information that is easy to access. One thing that was noted across
+the interviews was the ability to engage with anyone who posts information as well as a timestamp. Video formats were preferred
+however text was also accepted as long as it was easy to read and to the point. Something to consider would be a search engine
+for our website or some easy way for users to access the exact critea they are looking for. The interviews showed a variety of games
+that people were interested in, meaning the type of data varies. Things like tier lists, beginer guides, and tutorials seemed
+to be the most interesting topics. These discussions will help us further focus our efforts into the data people most likely
+would like to see.
+
