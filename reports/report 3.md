@@ -1,9 +1,9 @@
-# Report for Week #2
+# Report for Week #3
 **PROJECT COUNTERPICK.GG**
 
 **Group:** 7
 
-**Date:** 1/31/2025
+**Date:** 2/7/2025
 
 **Location:** Cline Library/Discord
 
