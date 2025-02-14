@@ -94,4 +94,8 @@ Rique:
 
 
 # 8. Issue Tracker
+ISSUE TRACKER URL: https://github.com/Rique-Yazzie/cs386-a1/issues
+
+![image](https://github.com/user-attachments/assets/4e5599c8-caf5-49f4-b921-c7f82fe6d0bf)
+
 
