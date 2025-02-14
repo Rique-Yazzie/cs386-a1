@@ -88,6 +88,8 @@ Chris:
 - As a new player, I want a easy to read website so that I can find stats for my hero.
 
 Rique: 
+- As a competitve player, I want up to date information, so that i can keep up with the newest metas
+- As a new player, I want to view current patch notes for my favorite character
 
 
 
