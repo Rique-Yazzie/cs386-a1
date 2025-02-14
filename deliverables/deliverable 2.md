@@ -1,3 +1,5 @@
+# Deliverable 2: Requirements
+
 # 1. Positioning
 Problem Statment:
 
@@ -63,15 +65,26 @@ MarvelRivals.com: Competitor that servers as a benchmark for CounterPick.gg
 
 # 5. Minimum Viable Product 
 
-- Landing/ Home Page
-- Working Links
-- Accurate Data 
+- Landing/Home Page: Our Landing Page sends you to the correct domain and home page.
+- Working Links: Ability to navigate through the website correctly.
+- Accurate Data: Up to date with information concerning that specific web page.
 
 # 6. Uses Cases
 
 
+
 # 7. User Stories 
+Melvin:
+- As a new player, I want to easily find the most recent patch notes, so I can stay up to date with any game changes
+- As a veteran, 
+Mark:
+
+Chris: 
+- As a Coach, I want a quick to quickly theory craft team compositions so that I can find an optimal team comp.
+- As a new player, I want a easy to read website so that I can find stats for my hero.
+Rique: 
+
+
 
 # 8. Issue Tracker
 
-# Team Work 
