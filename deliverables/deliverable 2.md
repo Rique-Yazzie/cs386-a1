@@ -76,8 +76,11 @@ MarvelRivals.com: Competitor that servers as a benchmark for CounterPick.gg
 # 7. User Stories 
 Melvin:
 - As a new player, I want to easily find the most recent patch notes, so I can stay up to date with any game changes
-- As a veteran, 
+- As a veteran,
+  
 Mark:
+- As a veteran player, I want to be able to see what team "comps" are "meta" or currently viable in competitive e-sports
+- As a new player, I want to be able to communicate with other players ideas on which heroes are the best to learn first
 
 Chris: 
 - As a Coach, I want a quick to quickly theory craft team compositions so that I can find an optimal team comp.
