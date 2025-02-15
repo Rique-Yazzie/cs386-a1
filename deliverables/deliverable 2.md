@@ -78,7 +78,26 @@ Chris:
 
 Rique:
 
-Mark:
+Mark's Use Case: Update the hero index
+Actor: (Website) Developer
+Trigger: New hero was added to the roster
+Pre-conditions: Space for new hero is made
+Post-conditions: Hero added to the roster
+Success Scenario:
+
+	1. Developer goes into the available space for hero roster
+	2. Developer finds an open space to put the hero
+	3. Developer inputs the correct data for the hero
+	4. Developer tests if the correct information is displayed
+
+Alternative Scenario:
+
+	1. Developer goes into the available space for hero roster
+	2. The page or data does not have available space for the new hero
+	3. Resources are then allocated for the new hero
+	4. Continue on, add the hero data
+	5. Test
+
 
 Melvin:
 
