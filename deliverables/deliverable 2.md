@@ -95,7 +95,28 @@ Alternate Scenario #1:
 1. User has a network error
 2. Team comp tool does not update.
 
-Rique:
+Rique's Use Case:
+Actor: User/Client
+Trigger: User wants to view stats for character
+Pre-conditions: website is up to date
+Post-condition: link should take user to recent stats for character
+
+Succcess Scenario:
+1. User navigates to website
+2. User clicks stats link
+3. Website retrieves most recent information
+4. Website displays info to user
+
+Alternate Scenario #1:
+1. User navigates to website
+2. Website is not displayed
+3. No stats displayed to user
+
+Alternate Scenario #2:
+1. User navigates to website
+2. User click stats link
+3. Website cannot find recent stats information
+4. No stats displayed to user
 
 Mark's Use Case: Update the hero index
 
