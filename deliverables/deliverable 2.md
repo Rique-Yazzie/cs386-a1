@@ -71,14 +71,16 @@ MarvelRivals.com: Competitor that servers as a benchmark for CounterPick.gg
 
 # 6. Uses Cases
 https://drive.google.com/file/d/1QkUXLvBDxll9xmHrDh-R6jMebaaIVAbv/view?usp=sharing 
-Melvin:
+
+- refer to sketch above ^
 
 Chris:
 
 Rique:
 
-Mark: 
+Mark:
 
+Melvin:
 
 
 # 7. User Stories 
