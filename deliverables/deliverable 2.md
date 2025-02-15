@@ -96,9 +96,13 @@ Alternate Scenario #1:
 2. Team comp tool does not update.
 
 Rique's Use Case:
+
 Actor: User/Client
+
 Trigger: User wants to view stats for character
+
 Pre-conditions: website is up to date
+
 Post-condition: link should take user to recent stats for character
 
 Succcess Scenario:
