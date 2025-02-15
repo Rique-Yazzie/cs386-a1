@@ -75,6 +75,19 @@ https://drive.google.com/file/d/1QkUXLvBDxll9xmHrDh-R6jMebaaIVAbv/view?usp=shari
 - refer to sketch above ^
 
 Chris:
+Use Case: Update composition and stats of current team.
+Actor: User
+Trigger: User selects/removes hero from team.
+Pre-condition: User has hero team comp tool in web page.
+Post-Condition: Team comp tool updates page with new team and stats
+Success Scenario:
+	1. User is given tool with nothing preloaded
+	2. User selects hero(s) to add to team
+	3. Tool adds hero to composition, updating ui and team stats
+	4. User can add or remove heros in current composition.
+Alternate Scenario #1:
+	1. User has a network error
+	2. Team comp tool does not update.
 
 Rique:
 
