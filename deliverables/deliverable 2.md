@@ -76,51 +76,66 @@ https://drive.google.com/file/d/1QkUXLvBDxll9xmHrDh-R6jMebaaIVAbv/view?usp=shari
 
 Chris:
 Use Case: Update composition and stats of current team.
+
 Actor: User
+
 Trigger: User selects/removes hero from team.
+
 Pre-condition: User has hero team comp tool in web page.
+
 Post-Condition: Team comp tool updates page with new team and stats
+
 Success Scenario:
-	1. User is given tool with nothing preloaded
-	2. User selects hero(s) to add to team
-	3. Tool adds hero to composition, updating ui and team stats
-	4. User can add or remove heros in current composition.
+1. User is given tool with nothing preloaded
+2. User selects hero(s) to add to team
+3. Tool adds hero to composition, updating ui and team stats
+4. User can add or remove heros in current composition.
+ 
 Alternate Scenario #1:
-	1. User has a network error
-	2. Team comp tool does not update.
+1. User has a network error
+2. Team comp tool does not update.
 
 Rique:
 
 Mark's Use Case: Update the hero index
+
 Actor: (Website) Developer
+
 Trigger: New hero was added to the roster
+
 Pre-conditions: 
 - Space for new hero is made
+
 Post-conditions:
 - Hero added to the roster
-Success Scenario:
 
-	1. Developer goes into the available space for hero roster
-	2. Developer finds an open space to put the hero
-	3. Developer inputs the correct data for the hero
-	4. Developer tests if the correct information is displayed
+Success Scenario:
+1. Developer goes into the available space for hero roster
+2. Developer finds an open space to put the hero
+3. Developer inputs the correct data for the hero
+4. Developer tests if the correct information is displayed
 
 Alternative Scenario:
 
-	1. Developer goes into the available space for hero roster
-	2. The page or data does not have available space for the new hero
-	3. Resources are then allocated for the new hero
-	4. Continue on, add the hero data
-	5. Test
+1. Developer goes into the available space for hero roster
+2. The page or data does not have available space for the new hero
+3. Resources are then allocated for the new hero
+4. Continue on, add the hero data
+5. Test
 
 
 Melvin's Use Case: Create Account on CounterPick.gg
+
 Actor: New User/Client
+
 Trigger: New user decides to create an account to access features on CounterPick.gg.
+
 Pre-conditions:
 - The user is interested in saving their progress, preferences, or customizing their experience.
-- Access to the website 
+- Access to the website
+  
 Post-condition: The user successfully creates an account
+
 Success Scenario:
 
 1. Visit CounterPick.gg
