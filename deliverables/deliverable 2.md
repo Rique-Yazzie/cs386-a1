@@ -81,8 +81,10 @@ Rique:
 Mark's Use Case: Update the hero index
 Actor: (Website) Developer
 Trigger: New hero was added to the roster
-Pre-conditions: Space for new hero is made
-Post-conditions: Hero added to the roster
+Pre-conditions: 
+- Space for new hero is made
+Post-conditions:
+- Hero added to the roster
 Success Scenario:
 
 	1. Developer goes into the available space for hero roster
@@ -99,8 +101,26 @@ Alternative Scenario:
 	5. Test
 
 
-Melvin:
+Melvin's Use Case: Create Account on CounterPick.gg
+Actor: New User/Client
+Trigger: New user decides to create an account to access features on CounterPick.gg.
+Pre-conditions:
+- The user is interested in saving their progress, preferences, or customizing their experience.
+- Access to the website 
+Post-condition: The user successfully creates an account
+Success Scenario:
 
+1. Visit CounterPick.gg
+2. Signs up to make an account
+3. User enters required infomartion to make an account
+4. User agrees to terms
+5. User confirms email
+6. User explores context on website
+
+Alternate Scenario:
+
+1. User fails to subit required information 
+2. User provides invalid email address 
 
 # 7. User Stories 
 Melvin:
