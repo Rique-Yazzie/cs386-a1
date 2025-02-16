@@ -17,31 +17,34 @@
 
 **Melvin**: 
 
-Offered to start data gathering for the website (comp builds, tier list, etc).
+Continued gathering data about Marvel Rivals game. Writing out most of the deliverable 
 
 **Chris**: 
 
-Created Azure Dev Ops dashboard to help track our task and workloads. Also to keep track on milestones.
+Researched backend solutions and API's to use for our website. 
 
 **Mark**: 
 
-Lead the discussion of the project. Created document to track our notes and ideas.
+Collaborated with Rique to create frontend/ mockup and sketches for our website.
 
 **Rique**: 
 
-Offered insight on his previous ideas with website/UI designs for our website.
+Collarborated with Mark on the frontend taking his previous website with a Search bar function and tabs to build off for our website. 
 
-  
-## 2. Retrospective
+# 2. Retrospective
 
-Appreciations: Mark leading the discussion and Chris creating a Azure Dev Ops board for our task to be more organized.
+Appreciations: Melvin writing and documenting everything mostly for the deliverable and report 4.
 
-Successes: Assigned Roles and decided on what task to focus on this week for our project.
+Successes: Started UI mock up for Mark and Riquee, and Chris beginning researches on databases for our website.
 
-Failures: Had to simplify our website and focused only implementing one game.
+Failures: No failures for this week.
 
-Barries: Tools, Databases, APIs
+Barries: Tools, Databases, APIs - they cost money
 
-What we should try next time: Processing and use the Azure Dev Ops Board more.
+What we should try next time: Meeting up at least more than once a week. More communication while working our tasks. 
 
 ## 3. Next Steps
+
+Tasks (GOALS)
+- UI Mockup (Mark + Rique): sign Homepage, Tier List, Build, Character Index 
+- Data Gather/Database Research (Melvin + Chris)
