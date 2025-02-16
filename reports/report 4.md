@@ -46,5 +46,8 @@ What we should try next time: Meeting up at least more than once a week. More co
 ## 3. Next Steps
 
 Tasks (GOALS)
-- UI Mockup (Mark + Rique): sign Homepage, Tier List, Build, Character Index 
+- UI Mockup (Mark + Rique): sign Homepage, Tier List, Build, Character Index
+- Make a working demo (Mark + Rique) for Homepage (working links)
 - Data Gather/Database Research (Melvin + Chris)
+- Focus/Research on user Cookies or API's for website for the purpose of personalization (Chris)
+
