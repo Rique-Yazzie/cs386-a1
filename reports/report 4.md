@@ -35,7 +35,7 @@ Collarborated with Mark on the frontend taking his previous website with a Searc
 
 Appreciations: Melvin writing and documenting everything mostly for the deliverable and report 4.
 
-Successes: Started UI mock up for Mark and Riquee, and Chris beginning researches on databases for our website.
+Successes: Started UI mock up for Mark and Rique, and Chris beginning researches on databases for our website.
 
 Failures: No failures for this week.
 
