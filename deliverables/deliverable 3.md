@@ -15,3 +15,14 @@ The system supports multiple **Use Cases**. A **User** can ***Update Team Compos
 The system's **User Stories** reflect the diverse needs of **Players**. A **New Player** wants to ***Find Patch Notes*** to stay updated on *game changes*. A **Veteran Player** seeks to ***Contribute to Community Notes*** to help others. A **Coach** needs an efficient tool to ***Theory-Craft Team Compositions***. A **Competitive Player** requires ***Up-to-date Information*** to track ***Meta Changes***.
 
 For issue tracking, the project maintains an **Issue Tracker** at [GitHub](https://github.com/Rique-Yazzie/cs386-a1/issues), ensuring that *bugs*, *feature requests*, and *system improvements* are documented and addressed systematically.
+
+**Model**
+
+![Deliverable3](https://github.com/user-attachments/assets/91df31b4-f6bd-4a39-8628-c7977eaf3077)
+
+**Team Work**
+
+Christopher Son - 
+Rique Yazzie - 
+Mark Johnson - 
+Melvin Agaram - 
