@@ -22,7 +22,7 @@ For issue tracking, the project maintains an **Issue Tracker** at [GitHub](https
 
 **Team Work**
 
-Christopher Son - (15%) Created and refined UML class diagram. 
-Rique Yazzie - 
-Mark Johnson - 
+Christopher Son - (15%) Created and refined UML class diagram. \
+Rique Yazzie - \
+Mark Johnson - \
 Melvin Agaram - 
