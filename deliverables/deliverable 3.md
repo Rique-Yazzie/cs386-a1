@@ -21,9 +21,3 @@ For issue tracking, the project maintains an **Issue Tracker** at [GitHub](https
 
 ![Deliverable3](https://github.com/user-attachments/assets/91df31b4-f6bd-4a39-8628-c7977eaf3077)
 
-**Team Work**
-
-Christopher Son - (15%) Created and refined UML class diagram. \
-Rique Yazzie - \
-Mark Johnson - \
-Melvin Agaram - 
