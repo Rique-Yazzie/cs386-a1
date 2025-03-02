@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(0, 0, 0, 0.879);
+    color: white; 
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.sign-up-color {
+    background-color: rgba(160, 22, 22, 0.927);
+    color: white;
+}
+
+.marvel-font {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 42px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: white;
+}
