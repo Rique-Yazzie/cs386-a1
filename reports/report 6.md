@@ -21,7 +21,7 @@ Completed data gathering and storing the data for heros into an excel database.
 
 **Chris**: 
 
-Designed the implementation of a Django database to hold simple datapoints such as usename and password. Currently using a local machine to verify operability.
+Designed the implementation of a Django database to hold simple datapoints such as usename and password.
 
 **Mark**: 
 
