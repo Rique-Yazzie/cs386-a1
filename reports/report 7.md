@@ -17,31 +17,31 @@
 
 **Melvin**: 
 
-Completed data gathering and storing the data for heros into an excel database.
+Worked with Rique to design the website to hold/fetch the information he organized.
 
 **Chris**: 
 
-Designed the implementation of a Django database to hold simple datapoints such as usename and password.
+Created two diagrams for the Midterm presetnation. One UML Use case, and one class diagram.
 
 **Mark**: 
 
-Contacted TA and elicate feedback on project currently.
+Prepared the midterm slideshow and managed the team to prepare and populate the slides.
 
 **Rique**: 
 
-Created website skeleton implementing tabs, search bar, and headers.
+Worked with Melvin to to design a function to create a heroes section for any new hero added to a dictionary.
 
 # 2. Retrospective
 
-Appreciations: Rique is picked as the most appreciated with his work on the website, working solo to develope the landing page.
+Appreciations: Melvin was picked because he took responsibility and gatheered data for the website on his own.
 
-Successes: Team met up more than once to complete and meet goals, proving that the team is flexible.
+Successes: Team had reached the 5 minute minimum for the presentation. 
 
-Failures: This week was marred with midterms, so while we adapted to finish goals, other obligations slowed progress.
+Failures: This week, because of midterms, the team was not able to make progress on the website and the teams wasnt able to meet more than once this week.
 
-Barries: Database architecture and Midterms
+Barries: Database server. Currently we simply do not have the hardware needed to implement a back end.
 
-What we should try next time: Meet more often this week to achieve some more progress because there are still midterms this week.
+What we should try next time: Again, we will try to meet more than once this week to communicate and get progress on the website.
 
 ## 3. Next Steps
 
