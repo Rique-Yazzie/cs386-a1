@@ -29,7 +29,7 @@ Prepared the midterm slideshow and managed the team to prepare and populate the 
 
 **Rique**: 
 
-Worked with Melvin to to design a function to create a heroes section for any new hero added to a dictionary.
+Worked with Melvin to design a function using JavaScript to create a heroes section for any new hero added to a dictionary.
 
 # 2. Retrospective
 
