@@ -45,5 +45,7 @@ What we should try next time: Again, we will try to meet more than once this wee
 
 ## 3. Next Steps
 
-Tasks (GOALS)
+- Mark will try to get the server hardware to enable the team to have backend access
+- Rique and Melvin will get seperate webpages to display data (heroes, stats, etc.).
+- Chris will work on getting a local Django backend. Once the server is secured, he'll port over the local backend.
 
