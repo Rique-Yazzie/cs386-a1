@@ -5,9 +5,9 @@
 
 **Date:** 03/07/2025
 
-**Location:** Cline Library/Discord
+**Location:** Discord
 
-**Present participants:** (Chris Son, Mark Johnson, Melvin Agram, Rique Yazzie)
+**Present participants:** (Chris Son, Mark Johnson, Rique Yazzie)
 
 **Missing participants:** Melvin Agram (Has an excuse)
 
