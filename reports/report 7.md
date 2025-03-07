@@ -33,7 +33,7 @@ Worked with Melvin to design a function using JavaScript to create a heroes sect
 
 # 2. Retrospective
 
-Appreciations: Melvin was picked because he took responsibility and gatheered data for the website on his own.
+Appreciations: Melvin was picked because he took responsibility and gathered data for the website on his own.
 
 Successes: Team had reached the 5 minute minimum for the presentation. 
 
