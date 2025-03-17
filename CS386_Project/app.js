@@ -2,27 +2,27 @@
 const heroes = {
     "luna-snow": {
         name: "Luna Snow",
-        image: "./luna_snow.png",
+        image: "./CharacterImages/luna_snow.png",
         description: "Equal parts pop star and Super Hero, Luna Snow puts on a dazzling show with both her light and dark ice powers. The arena is her stage, where Seol Hee and her team orchestrate spectacular displays that earn her an ever-increasing number of fans and wins."
     },
     "invisible-woman": {
         name: "Invisible Woman",
-        image: "./invisible_woman.png",
+        image: "./CharacterImages/invisible_woman.png",
         description: "The Invisible Woman is able to slip in and out of sight without a trace. No matter how intense the battle may be, Susan Richards always keeps her cool, conjuring up impenetrable force fields to protect herself and her team."
     },
     "jeff": {
         name: "Jeff",
-        image: "./jeff.png",
+        image: "./CharacterImages/jeff.png",
         description: "Most landsharks are vicious creatures of the deep... but not Jeff! This adorable and mischievous little landshark brings splashes of joy and healing to every battle. But if the tide turns, Jeff can morph into a voracious beast, swallowing an army of foes in one giant gulp!"
     },
     "cloak-and-dagger": {
         name: "Cloak and Dagger",
-        image: "./cloak&dagger.png",
+        image: "./CharacterImages/cloak&dagger.png",
         description: "Tyrone Johnson and Tandy Bowen are nearly inseparable, like two sides of the same coin. Intertwined by forces of shadow and light, Cloak & Dagger fight as a united front, dealing havoc and healing allies across the arena."
     },
     "mantis": {
         name: "Mantis",
-        image: "./mantis.png",
+        image: "./CharacterImages/mantis.png",
         description: "Mantis uses her impressive mental abilities and her penchant for plant control to anchor any team she fights alongside. Her powers tap into a limitless flow of life energy, gently nourishing everything she touches."
     },
 }
