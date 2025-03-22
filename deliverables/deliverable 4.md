@@ -7,3 +7,37 @@ CounterPick.gg is a dedicated learning platform designed to simplify the complex
 https://github.com/Rique-Yazzie/cs386-MarvelRivalsProject
 
 - Melvin Agram did this section 
+
+**Requirements**
+
+**Tests**
+
+- Mark and Rique
+
+**Technology**
+
+- Melvin
+
+**Deployment**
+
+- Chris
+
+**Licensing**
+
+- Melvin
+
+**Readme File**
+
+- Melvin
+
+**UX Design**
+
+- Rique
+
+**Lessons Learned**
+
+- Mark
+
+**Demo**
+
+- Rique 
